@@ -35,7 +35,7 @@
 
 | _,.-'``'-.,_,.'`` Step 1 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
-With this app, you can practice German numbers. Please install<br>https://www.videolan.org/ before you start the app! It is open source<br>and the best Media Player available! A lot of my apps use/will use<br>this player!   There are three ways of practicing the numbers:   the<br>app will show you the number as a word, and you have to write the<br>number: app: neunundzwanzig you: 29 the app will show you the number,<br>and you have to write it as a word:  app: 29 you: neunundzwanzig  the<br>app will play an audio file, and you have to write the number either<br>as a number or as a word:         app: neunundzwanzig (as audio)<br>you: 29 or neunundzwanzig|<img src="50_800x800.png" width="400"/> |
+With this app, you can practice German numbers. Please install<br>https://www.videolan.org/ before you start the app! It is open source<br>and the best Media Player available! A lot of my apps use/will use<br>this player!   There are three ways of practicing the numbers:   <br>the app will show you the number as a word, and you have to write the number:<br> app: neunundzwanzig<br> you: 29<br> the app will show you the number, and you have to write it as a word:<br>app: 29<br>you: neunundzwanzig<br>the app will play an audio file, and you have to write the number either<br>as a number or as a word:<br>app: neunundzwanzig (as audio)<br>you: 29 or neunundzwanzig|<img src="50_800x800.png" width="400"/> |
 
 | _,.-'``'-.,_,.'`` Step 2 ``'.,_,.-'``'-.,_|Screenshot|
 | -------------------------------------------------------------- |- |
