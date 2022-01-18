@@ -14,7 +14,7 @@
 </p><br>
 
 
-# Zahlenmeister [DOWNLOAD THE INSTALLER HERE](https://www.dropbox.com/s/u55k96a1u9q90uy/zahlenmeister_setup.exe?dl=0)
+# Zahlenmeister [DOWNLOAD THE INSTALLER HERE](https://github.com/hansalemaos/Zahlenmeister/blob/main/zahlenmeister_setup.exe?raw=true)
 
 
 
