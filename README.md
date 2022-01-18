@@ -14,7 +14,7 @@
 </p><br>
 
 
-# Zahlenmeister
+# Zahlenmeister [DOWNLOAD THE INSTALLER HERE](https://www.dropbox.com/s/u55k96a1u9q90uy/zahlenmeister_setup.exe?dl=0)
 
 
 
