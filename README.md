@@ -23,8 +23,8 @@
 - Practice German Numbers
 - with Audio
 - Written as words/as numbers
-- results as XLSX and HTML
-- 100% freeNo coding required!
+- 100% free
+- No coding required!
 - Download,install and start
 - Source code included!
 - For Windows!
